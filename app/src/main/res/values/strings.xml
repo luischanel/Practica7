@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica 7</string>
+    <string name="nombre">Nombre peluche</string>
+    <string name="cantidad">Cantidad de peluches</string>
+    <string name="valor">Valor del peluche</string>
+    <string name="info1">a agregar/buscar/actualizar/vender/eliminar</string>
+    <string name="info2">a agregar/aumentar/vender</string>
+    <string name="info3">a agregar</string>
+
+
+</resources>
